@@ -1,0 +1,18 @@
+Name:(name)
+Age:(age)
+Course:(cour5se)
+Name:(name)
+Age:(age)
+Course:(course)
+Name:& C:\Users\B.Sandhya\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/B.Sandhya/Desktop/pfs 67/filehandling.py"
+Age:C:\Users\B.Sandhya\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/B.Sandhya/Desktop/pfs 67/filehandling.py"
+Course:C:\Users\B.Sandhya\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/B.Sandhya/Desktop/pfs 67/filehandling.py"
+Name:& C:\Users\B.Sandhya\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/B.Sandhya/Desktop/pfs 67/filehandling.py"
+Age:C:\Users\B.Sandhya\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/B.Sandhya/Desktop/pfs 67/filehandling.py"
+Course:C:\Users\B.Sandhya\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/B.Sandhya/Desktop/pfs 67/filehandling.py"
+Name:ajay
+Age:22
+Course:cse
+Name:ajay
+Age:22
+Course:cse

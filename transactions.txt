@@ -1,0 +1,4 @@
+Withdrawn: 5000
+Rem bal: 5000
+Withdrawn: 500
+Rem bal: 9500

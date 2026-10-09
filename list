@@ -1,0 +1,68 @@
+print("ashok")
+#list
+list = [10,20,40]
+print(list)
+#adding elements
+#appending
+list.append(20)
+print(list)
+#extend
+a = [10,20,30]
+b = [40,50,60]
+a.extend(b)
+print(a)
+#delete
+#pop
+a.pop()
+print(a)
+#remove
+a.remove(30)
+print(a)
+
+#insert () adding element in particular position
+d=[89,90,99]
+d.insert(1,56)
+print(d)
+
+#list concatination :adding two lists
+a=[10,20]
+b=[40,50]
+result=a+b
+print(result)
+
+#list repetation
+print(a*3)
+
+#built in function
+#length -len() returns no of elements
+c=[10,20,30,40,70,60]
+print(len(c))
+
+#maximumm max() return maximum number
+print(max(c))
+
+#minimum min() return minimum number
+print(min(c))
+
+#sum() add elements in list
+print(sum(c))
+
+#sorted()
+print(sorted(c))
+
+#indexing
+e=[20,30,30,40,50]
+print(e.index(30))
+
+#count
+print(e.count(30))
+
+#sort
+f=[40,30,60,70,]
+f.sort()
+print(f)
+
+#reverse
+f.reverse()
+print(f)
+

@@ -1,0 +1,12 @@
+#tuple
+student = (10,20,30)
+print(student)
+
+colors=('red','blue','green')
+print(colors)
+print(colors[1])
+print(colors[0:2])
+g=(77,88,99,90)
+print(g.count(77))
+print(len(g))
+print(max(g))

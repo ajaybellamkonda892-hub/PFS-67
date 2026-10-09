@@ -1,0 +1,48 @@
+#set is a unorederes and unique values
+#it doesn't support indexing
+seen = {20,30}
+print(seen)
+#empty set
+s=set()
+#empty dictionary
+s={}
+#remove duplicates
+seen1 ={10,20,20,30}
+print(seen1)
+seen1.add(70)
+print(seen1)
+seen1.update({90,60})
+print(seen1)
+seen1.add(10)
+print(seen1)
+
+#set operations
+#union,intersection,difference,symmetric difference
+#union(|) combine all the elements from both sets without duplicates
+A={10,20,30}
+B={40,50,30}
+print(A|B)
+
+#intersectiom -common elements
+print(A&B)
+
+#difference -elements that exists in the first set not in the second set
+print(A-B)
+print(B-A)
+
+#symmetric difference - without commom elements
+print(A^B)
+
+#set main methods
+nums={10,20,30,40}
+print(len(nums))
+print(max(nums))
+print(min(nums))
+print(sum(nums))
+nums.remove(40)
+print(nums)
+nums.pop()
+print(nums)
+nums.discard(40) #discrad-leni element ni delete chayali ante appudu vadatham
+nums.clear()
+print(nums)
